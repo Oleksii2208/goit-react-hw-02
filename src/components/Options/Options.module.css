@@ -1,0 +1,10 @@
+.buttons {
+  display: flex;
+  gap: 5px;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.button {
+  padding: 5px 10px;
+}

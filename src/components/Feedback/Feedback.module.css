@@ -1,0 +1,6 @@
+.feedbackList {
+  font-size: 18px;
+}
+.feedbackItem:not(:last-child) {
+  margin-bottom: 10px;
+}
